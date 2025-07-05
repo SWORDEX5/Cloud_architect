@@ -12,7 +12,7 @@ import {
   Mail,
   Phone,
   MapPin,
-  LinkedIn,
+  Linkedin,
   Github,
   ExternalLink,
   ChevronDown,
