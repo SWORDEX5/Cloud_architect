@@ -616,7 +616,7 @@ const Portfolio = () => {
                     href="#" 
                     className="bg-slate-800 hover:bg-blue-600 p-3 rounded-lg transition-colors"
                   >
-                    <LinkedIn className="w-6 h-6 text-white" />
+                    <Linkedin className="w-6 h-6 text-white" />
                   </a>
                   <a 
                     href="#" 
